@@ -5,5 +5,5 @@
   <Description>Searches for Python modules in the Python Package Index (PyPI, the Cheese Shop).</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://pypi.python.org/favicon.ico</Image>
-  <Url type="text/html" method="GET" template="https://pypi.python.org/pypi?%3Aaction=search&term={searchTerms}&submit=search" />
+  <Url type="text/html" method="GET" template="https://pypi.python.org/pypi?%3Aaction=search%26term={searchTerms}" />
 </OpenSearchDescription>
